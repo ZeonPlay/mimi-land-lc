@@ -2,7 +2,7 @@
     "format_version": 2,
     "header": {
         "name": "Mimi UI",
-        "description": "Just support  for Mimi UI",
+        "description": "Just support for Mimi UI\nMade By ZeonPlay",
         "uuid": "821a833f-d72e-49b8-a314-0e13b7e31199",
         "version": [0, 0, 1],
         "min_engine_version": [1, 20, 0]
