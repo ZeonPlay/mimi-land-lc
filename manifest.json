@@ -1,0 +1,50 @@
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": [
+            "yotbu"
+        ]
+    },
+    "header": {
+        "name": "Mimi Land",
+        "description": "Land Protection.",
+        "uuid": "69c142d9-0353-4818-a9e7-13a64e019676",
+        "version": [
+            0,
+            1,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            20,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "script",
+            "language": "javascript",
+            "uuid": "b3788e9a-7d25-4b2e-b5b5-bc75a285ab30",
+            "entry": "scripts/main.js",
+            "version": [
+                0,
+                1,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.15.0-beta"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "1.4.0-beta"
+        },
+        {
+            "module_name": "@minecraft/server-gametest",
+            "version": "1.0.0-beta"
+        }
+    ]
+}
