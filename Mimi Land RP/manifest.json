@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Mimi UI",
+        "description": "Just support  for Mimi UI",
+        "uuid": "821a833f-d72e-49b8-a314-0e13b7e31199",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 20, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "725dfa38-e757-4d69-b17a-9ccfec971c79",
+            "version": [1, 0, 0]
+        }
+    ]
+}
