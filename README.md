@@ -2,7 +2,7 @@
 # References
 ## Land Claim addon by @shadowgamer100k
 ## Some stuff by @yotbu
-## Mimi UI by @ZeonPlay
+## Mimi UI by [@ZeonPlay](https://github.com/ZeonPlay)
 
 outline breakdown about all the logics in this addon
 

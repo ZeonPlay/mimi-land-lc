@@ -6,7 +6,7 @@
         ]
     },
     "header": {
-        "name": "Mimi Land",
+        "name": "Mimi Land BP",
         "description": "Land Protection.",
         "uuid": "69c142d9-0353-4818-a9e7-13a64e019676",
         "version": [
@@ -36,7 +36,7 @@
     "dependencies": [
         {
             "module_name": "@minecraft/server",
-            "version": "1.15.0-beta"
+            "version": "1.15.0"
         },
         {
             "module_name": "@minecraft/server-ui",
